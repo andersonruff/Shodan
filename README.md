@@ -1,4 +1,4 @@
-oqueries/cameras/general-cameras.txt
+
 # Queries para identificar câmeras com interface web
 port:80 has_screenshot:true "Camera"
 "Network Camera" port:80
